@@ -1,0 +1,1 @@
+export const servicesUnableError = "Service Not Able Yet!"
